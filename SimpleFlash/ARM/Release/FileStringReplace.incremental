@@ -1,0 +1,1 @@
+$(AntDependencies)=;$(ApplicationId)=applicationId = "com.SimpleFlash.SimpleFlash";$(ConfigurationType)=application;$(AarDependencies)=;$(AarDependenciesSettings)=;$(ApplicationName)=SimpleFlash;$(AndroidBuildToolsVersion)=23.0.3;$(AndroidAPILevelNumber)=23;$(androidapilevel)=android-23;$(projectname)=SimpleFlash;

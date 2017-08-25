@@ -1,0 +1,11 @@
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\SimpleFlash.apk.recipe
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\SimpleFlash.apk.recipe.merged
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\Package\src\com\SimpleFlash\SimpleFlash.java
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\FileStringReplace.incremental
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\SimpleFlash.apk
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\SimpleFlash.lastsuccessfuldeploy
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\Package\libs\armeabi-v7a\gdbserver
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\Package\res\values\strings.xml
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\Package\project.properties
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\Package\build.xml
+D:\Files\Projects\SimpleFlash\SimpleFlash\ARM\Debug\Package\AndroidManifest.xml
